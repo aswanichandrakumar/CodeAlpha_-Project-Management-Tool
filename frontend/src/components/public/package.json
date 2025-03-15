@@ -1,0 +1,8 @@
+{
+    "name": "project-management-tool",
+    "version": "1.0.0",
+    "description": "A project management tool with real-time collaboration features",
+        "main": "server.js"
+    }
+   
+  
